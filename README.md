@@ -24,4 +24,3 @@ Tasks and window settings are stored locally in `%LOCALAPPDATA%\StudyDesk\tasks.
 ## Build from source
 
 The source is in [`src/StudyDesk.cs`](src/StudyDesk.cs). On Windows with the .NET Framework compiler available, run [`src/build.ps1`](src/build.ps1) in PowerShell. The script writes `StudyDesk.exe` at the repository root.
-
